@@ -1,6 +1,3 @@
-![Jameselton1's profile picture](https://avatars.githubusercontent.com/u/Jameselton1?v=4)
-![image1](image1)
-
 # 👋 Hi, I'm James Elton
 
 I'm a passionate **Full Stack Developer** specializing in the .NET ecosystem. Whether it's building robust backends in **C#**, crafting dynamic APIs, or bringing interfaces to life with **HTML, CSS, and JavaScript**, I thrive on delivering clean, maintainable code and learning new things every day.
